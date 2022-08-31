@@ -1,10 +1,10 @@
-#Employee Attrition
+# Employee Attrition
 ------------------
 
 The problem statement for the project was to analyze the reasons for employee attrition and make a predictive model soa s to predict what kind of employees are
 likely to leave the company.
 
-##Need of Employee Attrition prediction
+## Need of Employee Attrition prediction
 
 **1) Managing workforce**: If the supervisors or HR came to know about some employees that they will be planning to leave the company then they could get in touch 
                        with those employees which can help them to stay back or they can manage the workforce by hiring the new alternative of those employees.
@@ -16,7 +16,7 @@ likely to leave the company.
                           hiring and they can get the valuable asset whenever they need so for the efficient flow of work.
                           
  
- ##Approach
+ ## Approach
  
 ### Exploratory Data Analysis
 
