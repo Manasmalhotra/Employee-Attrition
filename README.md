@@ -39,7 +39,7 @@ likely to leave the company.
 2) Split the data in a ratio of 80:20 for traing and testing purposes respectively.
 3) Applied 6 classical machine learning algorithms to identify the best model.
 4) Evaluated the performance of the models using stratified cross validation method as there was a class imbalance in the dataset.
-5) Random Forest Classifier was identified tobe the best performing model with a F1 score of 0.989.
+5) Random Forest Classifier was identified tobe the best performing model with a F1 score of 0.9991, Precision: 0.984, Recall:0.984.
 6) No overfitting was detected as per the cross validation results, but since I had limited data to test on, I performed SMOTE technique to tackle the class imbalance.
 7) The model giave a similar level of performance (F1 score : 0.985 Precision:0.995 Recall: 0.975) with the SMOTE technique.
 
