@@ -36,7 +36,7 @@ likely to leave the company.
 ### Predictive Modelling
 
 1) Split the data into x and y variables where x are all independent variables and y is the depenedent variable( "left") which needs to be predicted.
-2) Split the data in a ratio of 80:20 for traing and testing purposes respectively.
+2) Split the data in a ratio of 80:20 for training and testing purposes respectively.
 3) Applied 6 classical machine learning algorithms to identify the best model.
 4) Evaluated the performance of the models using stratified cross validation method as there was a class imbalance in the dataset.
 5) Random Forest Classifier was identified tobe the best performing model with a F1 score of 0.9991, Precision: 0.984, Recall:0.984.
